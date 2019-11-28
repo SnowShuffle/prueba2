@@ -6,4 +6,3 @@ minutos
 31:00
 
 hola
-nuevo cambio
